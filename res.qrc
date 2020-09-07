@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="img">
+    <file>LE_ico.ico</file>
+    <file>LE_ico.png</file>
+  </qresource>
+</RCC>
